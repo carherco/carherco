@@ -1,6 +1,6 @@
-### Hi there 👋
+# FORMADOR / CONSULTOR EN TECNOLOGÍAS WEB
 
-FORMADOR / CONSULTOR EN TECNOLOGÍAS WEB. ESPECIALIZADO EN ANGULAR, SYMFONY E IONIC
+## ESPECIALIZADO EN ANGULAR, SYMFONY E IONIC
 
 Más de 10 años de experiencia como desarrollador web. Más de 3 años de experiencia como formador en tecnologías web: Angular, Ionic, Symfony, PWA, TDD, Git...
 
