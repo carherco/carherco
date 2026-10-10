@@ -2,7 +2,7 @@
 
 ## ESPECIALIZADO EN ANGULAR, SYMFONY E IONIC
 
-Más de 10 años de experiencia como desarrollador web. Más de 3 años de experiencia como formador en tecnologías web: Angular, Ionic, Symfony, PWA, TDD, Git...
+Más de 20 años de experiencia como desarrollador web. Más de 3 años de experiencia como formador en tecnologías web: Angular, Ionic, Symfony, PWA, TDD, Git...
 
 Formación personalizada tanto in-company como online - Posibilidad también de formación en formato de viedograbaciones.
 
